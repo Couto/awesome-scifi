@@ -365,7 +365,7 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 _Dystopian novels deal with imaginary communities or societies that are undesirable or frightening._
 
-#### [1984](https://www.goodreads.com/book/show/5470.1984) (1949) *by George Orwell* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
+#### [1984](https://www.goodreads.com/book/show/5470.1984) (1949) *by George Orwell* [4.1] **✓** <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > Written in 1948, _1984_ was George Orwell’s chilling prophecy about the future.
 
@@ -748,7 +748,7 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 ## Movies
 
-#### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
+#### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3] **✓**
 
 > Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
@@ -756,15 +756,15 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 > In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.
 
-#### [A Scanner Darkly](http://www.imdb.com/title/tt0405296/) (2006) [7.1]
+#### [A Scanner Darkly](http://www.imdb.com/title/tt0405296/) (2006) [7.1] **✓**
 
 > An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
 
-#### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]
+#### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1] **✓**
 
 > A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psionic psychopath that only two kids and a group of psionics can stop.
 
-#### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
+#### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2] **✓**
 
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 
@@ -808,7 +808,7 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 > A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
-#### [Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0]
+#### [Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0] **✓**
 
 > A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
 
@@ -816,7 +816,7 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
 
-#### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
+#### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2] **✓**
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
@@ -854,11 +854,11 @@ A movie about a [10% of the brain myth](https://en.wikipedia.org/wiki/Ten_percen
 
 > In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 
-#### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]
+#### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7] **✓**
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
-#### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
+#### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0] **✓**
 
 > Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
 
@@ -874,7 +874,7 @@ A movie about a [10% of the brain myth](https://en.wikipedia.org/wiki/Ten_percen
 
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
 
-#### [Prometheus](http://www.imdb.com/title/tt1446714/) (2012) [7.0]
+#### [Prometheus](http://www.imdb.com/title/tt1446714/) (2012) [7.0] **✓**
 
 > Following clues to the origin of mankind a team journey across the universe and find a structure on a distant planet containing a monolithic statue of a humanoid head and stone cylinders of alien blood but they soon find they are not alone.
 
@@ -924,7 +924,7 @@ Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadsi
 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
 
-#### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
+#### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7] **✓**
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
@@ -961,7 +961,7 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > When an old enemy, the Cylons, resurfaces and obliterate the 12 colonies, the crew of the aged Galactica protects a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony of Earth.
 
-#### [Black Mirror](http://www.imdb.com/title/tt2085059/) [8.8]
+#### [Black Mirror](http://www.imdb.com/title/tt2085059/) [8.8] **⍻**
 
 >  A television anthology series that shows the dark side of life and technology.
 
@@ -981,7 +981,7 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.
 
-#### [Firefly](http://www.imdb.com/title/tt0303461/) [9.2]
+#### [Firefly](http://www.imdb.com/title/tt0303461/) [9.2] **⍻**
 
 > Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.
 
@@ -993,15 +993,15 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > An Earth man and his alien friend escape Earth's destruction and go on a truly strange adventure as space hitchhikers.
 
-#### [Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/) [8.6]
+#### [Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/) [8.6] **✓**
 
 > 15 years after the enormous catastrophe that killed half of the world population, another crisis has come — the unidentified invaders called "Angels" begin to attack human-kind. Mankind's only hope lies with giant organic mecha and their teenage pilots.
 
-#### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
+#### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1] **⍻**
 
 > An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
 
-#### [Stargate SG1](http://www.imdb.com/title/tt0118480/) [8.5]
+#### [Stargate SG1](http://www.imdb.com/title/tt0118480/) [8.5] **⍻**
 
 > A secret military team, SG-1, is formed to explore the recently discovered Stargates.
 
@@ -1009,7 +1009,7 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
 
-#### [The X-Files](http://www.imdb.com/title/tt0106179/) [8.8]
+#### [The X-Files](http://www.imdb.com/title/tt0106179/) [8.8] **⍻**
 
 > Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
 
