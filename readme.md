@@ -782,7 +782,7 @@ A movie about an AI robot "growing up" (as in, learning about the world and lear
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
 
-#### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
+#### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]  **✓**
 
 Director: _Neill Blomkamp_
 Writer: _Neill Blomkamp, Terri Tatchell_
