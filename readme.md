@@ -322,7 +322,7 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 > And nothing less than the future is at stake.
 
-#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) *by William Gibson* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
+#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) *by William Gibson* [3.9] **⍻** <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > The Matrix is a world within the world, a global consensus hallucination, the representation of every byte of data in cyberspace…
 
@@ -772,7 +772,7 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 > A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
 
-#### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
+#### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1] **✓**
 
 A movie about an AI robot "growing up" (as in, learning about the world and learning the difference between good and bad). An amazing story, you really feel like Chappie is your friend by the end of the movie. Visual effects are not that great in a couple of scenes. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
