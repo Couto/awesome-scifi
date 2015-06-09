@@ -768,7 +768,7 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 
-#### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
+#### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0] **✓**
 
 > A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
 
