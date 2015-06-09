@@ -75,6 +75,14 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
+#### [Flatland](http://www.goodreads.com/book/show/433567.Flatland) (1884) *by Edwin A. Abbott* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
+
+This book will teach you to stretch your imagination and see things in a different way. - [@elssar](https://github.com/elssar)
+
+> This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women-thin, straight lines-are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
+
+> Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. "Instructive, entertaining, and stimulating to the imagination." — _Mathematics Teacher_.
+
 #### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by Isaac Asimov* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
@@ -238,11 +246,21 @@ Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [th
 
 > From the halls of academe to the halls of power; from the headquarters of an elite agency in Washington DC to a secret lab beneath Shanghai; from the underground parties of San Francisco to the illegal biotech markets of Bangkok; from an international neuroscience conference to a remote monastery in the mountains of Thailand - Nexus is a thrill ride through a future on the brink of explosion.
 
+#### [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City) (1994) *by Greg Egan* [4.1]
+
+> In the not-too-distant future, technology has given birth to a form of immortality. The human mind can be scanned and uploaded into a virtual reality program to become a perfect electronic “Copy,” aware of itself. A new Copy finds himself forced to cooperate in scientific experiments with the flesh-and-blood man he was copied from.
+
 #### [Red Mars](https://www.goodreads.com/book/show/77507.Red_Mars) (1993) *by Kim Stanley Robinson* [3.8]
 
 An interesting take on the near-future colonization of Mars by one hundred of the world's greatest scientists, filled with political intrigue and "hard science" alike. Admittedly some parts can be a slog, think A Song of Ice and Fire: awesome narrative in the grand scheme, with perhaps a bit too much description of Martian landscape/house sigils. - [@rubzo](https://github.com/rubzo)
 
 > For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny. John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic “alchemists,” Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life… and death.
+
+#### [Schild’s Ladder](https://www.goodreads.com/book/show/156780.Schild_s_Ladder) (2002) *by Greg Egan* [3.9]
+
+> Twenty thousand years into the future, an experiment in quantum physics has had a catastrophic result, creating an enormous, rapidly expanding vacuum that devours everything it comes in contact with. Now humans must confront this deadly expansion. Tchicaya, aboard a starship trawling the border of the vacuum, has allied himself with the Yielders—those determined to study the vacuum while allowing it to grow unchecked. But when his fiery first love, Mariama, reenters his life on the side of the Preservationists—those working to halt and destroy the vacuum—Tchicaya finds himself struggling with an inner turmoil he has known since childhood.
+
+> However, in the center of the vacuum, something is developing that neither Tchicaya and the Yielders nor Mariama and the Preservationists could ever have imagined possible: life.
 
 #### [The Sands of Mars](https://www.goodreads.com/book/show/149063.The_Sands_of_Mars) (1951) *by Arthur C. Clarke* [3.7]
 
@@ -269,19 +287,9 @@ This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and
 
 > Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like _Home Fires_.
 
-#### [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City) (1994) *by Greg Egan* [4.1]
-
-> In the not-too-distant future, technology has given birth to a form of immortality. The human mind can be scanned and uploaded into a virtual reality program to become a perfect electronic “Copy,” aware of itself. A new Copy finds himself forced to cooperate in scientific experiments with the flesh-and-blood man he was copied from.
-
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by Arthur C. Clark* [4.0]
 
 > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
-
-#### [Schild’s Ladder](https://www.goodreads.com/book/show/156780.Schild_s_Ladder) (2002) *by Greg Egan* [3.9]
-
-> Twenty thousand years into the future, an experiment in quantum physics has had a catastrophic result, creating an enormous, rapidly expanding vacuum that devours everything it comes in contact with. Now humans must confront this deadly expansion. Tchicaya, aboard a starship trawling the border of the vacuum, has allied himself with the Yielders—those determined to study the vacuum while allowing it to grow unchecked. But when his fiery first love, Mariama, reenters his life on the side of the Preservationists—those working to halt and destroy the vacuum—Tchicaya finds himself struggling with an inner turmoil he has known since childhood.
-
-> However, in the center of the vacuum, something is developing that neither Tchicaya and the Yielders nor Mariama and the Preservationists could ever have imagined possible: life.
 
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) *by Arthur C. Clarke* [3.7]
 
@@ -888,10 +896,6 @@ A movie about a [10% of the brain myth](https://en.wikipedia.org/wiki/Ten_percen
 #### [Primer](http://www.imdb.com/title/tt0390384/) (2004) [7.0]
 
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
-
-#### [Prometheus](http://www.imdb.com/title/tt1446714/) (2012) [7.0] **✓**
-
-> Following clues to the origin of mankind a team journey across the universe and find a structure on a distant planet containing a monolithic statue of a humanoid head and stone cylinders of alien blood but they soon find they are not alone.
 
 #### [Serenity (Firefly)](http://www.imdb.com/title/tt0379786/) (2005) [8.0]
 
