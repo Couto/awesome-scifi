@@ -822,7 +822,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 > An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
 
-#### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
+#### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9] **✓**
 
 Kind of a parody about Google. The owner of a huge search provider creates an A.I. humanoid in a complete secrecy and calls a young programmer to perform a slight variation of a [Turing test](https://en.wikipedia.org/wiki/Turing_test) to test his creation in a secret underground lab. Can be a good introduction to Turing test to people interested in A.I. To be honest, the end of the movie was a bit dissapointing to me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
